@@ -14,7 +14,6 @@ You will find all the additions under 'ReferenceiOSUITests' and 'Reports' folder
 'Reports' folder contains
 - Manual test cases
 - Automation report
-- Bug report
 - Overall evaluation report
 
 
