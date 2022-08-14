@@ -1,29 +1,19 @@
-# Test assignment
 
-We are looking for Automation Engineers that have the mindset "only the sky is the limit" and "automation doesn't stop at testing, it's just a beginning!" ;)
+# ReferenceiOS_ABN
+Instructions, Details & Approach
 
-The purpose of this test assignment is to assess the applicant's automation skills, allowing him/her to show the best they can do and how fast they can learn.
-It is an open assignment. There is no the right answer and there is no end goal other than proving yourself. Surprise us!
+Download the entire code and open in XCode.
 
-Make sure that you give detailed comments or descriptions of your tests.
-When the assignment is complete, please push your solution to Github(Gitlab) and send us the link 
+You will find all the additions under 'ReferenceiOSUITests' and 'Reports' folder.
 
-If you have any questions, please contact us back.
+'ReferenceiOSUITests' folder contains 
+- 'Identifiers' added for more locators and future use. 
+- Screen folder is added to maintain individual screens and their corresponding functionalities. Only have "MainScreen" given current app functionality.
+- 'ReferenceiOSUITests' contains all the 3 automated test scenarios.
+- Added 'BaseTestCase' for base functionalities like setUp, teardown, etc.
 
+'Reports' folder contains
+- Manual test cases
+- Automation report
+- Overall evaluation report
 
-Good luck.
-
-PS. We don't expect you to spend weeks (and sleepless nights) on doing it. Lets see how far you can get in 6-10 hours. We want to see how you approach and solve problems.
-
-PSPS. Please use mobile native tools.
-
-
-## Project set-up
-
-### Gemfile
-
-This file specifies which Ruby dependencies (gems) are needed for our app.
-
-### fastlane/Fastfile
-
-This is where tha magic happens.
